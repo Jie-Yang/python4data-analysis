@@ -1,4 +1,4 @@
-scikit_learn
-
+numpy
+pandas
 progressbar2
 
